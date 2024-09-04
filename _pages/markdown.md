@@ -1,15 +1,12 @@
-***
-
+---
 permalink: /markdown/
 title: "Research Experience"
-author\_profile: true
-redirect\_from:
+author_profile: true
+redirect_from:
+  - /md/
+    /markdown.html
+---
 
-*   /md/
-
-*   /markdown.html
-
-***
 
 ### Institute of Psychology, Chinese Academy of Sciences
 
