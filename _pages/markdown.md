@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Research Experience
 
 ### Institute of Psychology, Chinese Academy of Sciences
 
@@ -30,14 +29,14 @@ redirect_from:
 *Wuhan, China | Sep 2021 - July 2024*  
 *Supervised by Asst. Prof. Xu Li*
 
-#### Project: *Cognitive Mechanisms of Working Memory Plasticity in Older Adults*  
+**Project**: *Cognitive Mechanisms of Working Memory Plasticity in Older Adults*  
 *Funded by the National Natural Science Foundation of China, PI: Prof. Xu Li*
 
 - Analyzed EEG data from 60+ participants to identify neural correlates of working memory plasticity in aging populations.
 - Conducted literature reviews to support the theoretical framework and experimental design.
 - Co-authored research papers focusing on cognitive aging and memory plasticity.
 
-#### Project: *Working Memory Bias Correction in Individuals with Depressive Tendencies*  
+**Project**: *Working Memory Bias Correction in Individuals with Depressive Tendencies*  
 *Funded by the MOE Project of Humanities and Social Sciences, PI: Asst. Prof. Xu Li*
 
 - Managed data collection and analysis using statistical methods on a sample of 80 participants.
