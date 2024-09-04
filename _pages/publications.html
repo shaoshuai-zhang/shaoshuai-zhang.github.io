@@ -1,36 +1,13 @@
 ---
-layout: archive
-title: "Publications"
+title: "📝Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+  **Zhang, S.-S.**, Zhong, Y., Li, X., & Peng, M. (2024). [Dissociation of prepotent response inhibition and interference control in problematic internet use: evidence from the Go/No-Go and Flanker tasks](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-024-01698-6). *BMC Psychology, 12*(1).
+  Ding, L., **Zhang, S.** (co-first author), Peng, M., & Li, X. (2022). [Aging and distractor resistance in working memory: Does emotional valence matter?](https://bmcpsychology.biomedcentral.com/articles/10.1186/s40359-022-00953-y) *BMC Psychology, 10*(1).
 
-{% include base_path %}
+## ✍🏻Manuscripts
+**Zhang, S.-S.**, & Li, X. (in preparation). [The age prospective memory paradox: A three-level meta-analytic review](https://osf.io/sfyga).
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+**Zhang, S.-S.**, & Li, X. (in preparation). Attention and working memory bias to facial emotions in Social Anxiety Disorder: Exploring the coherence among information-processing biases.
