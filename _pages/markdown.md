@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### Institute of Psychology, Chinese Academy of Sciences
+### **Institute of Psychology, Chinese Academy of Sciences**
 
 **Research Assistant**  
 *Beijing, China | July 2024 - Present*  
@@ -17,28 +17,34 @@ redirect_from:
 **Project**: *Visual Processing of Biological Motion Information*  
 *Funded by the National Natural Science Foundation of China, PI: Asst. Prof. Ying Wang*
 
-- Led acquisition and analysis of multimodal data (behavioral, EEG, and fMRI) to investigate neural mechanisms of biological and non-biological motion processing.
-- Conducted experiments with 40+ participants, optimizing experimental protocols and ensuring data quality.
-- Collaborated closely with team members to interpret results, contributing to the refinement of experimental procedures.
+- **Literature Review & Design**: Synthesized research on biological motion processing and contributed to experimental design, including participant selection, task setup, and stimuli.
+  
+- **Experiment & Data Analysis**: Conducted behavioral, EEG, and fMRI experiments with 40+ participants, ensuring data quality. Led data analysis, including EEG/fMRI preprocessing and statistical modeling.
+  
+- **Reporting & Team Support**: Drafted sections of reports. Monitored team progress, offered feedback, and assisted with technical issues in data analysis.
 
 ---
 
-### Central China Normal University
+### **Central China Normal University**
 
 **Master’s Research**  
 *Wuhan, China | Sep 2021 - July 2024*  
 *Supervised by Asst. Prof. Xu Li*
 
-**Project**: *Cognitive Mechanisms of Working Memory Plasticity in Older Adults*  
+#### Project 1: *Cognitive Mechanisms of Working Memory Plasticity in Older Adults*  
 *Funded by the National Natural Science Foundation of China, PI: Prof. Xu Li*
 
-- Analyzed EEG data from 60+ participants to identify neural correlates of working memory plasticity in aging populations.
-- Conducted literature reviews to support the theoretical framework and experimental design.
-- Co-authored research papers focusing on cognitive aging and memory plasticity.
+- **Literature Review**: Conducted reviews on cognitive aging and working memory plasticity, creating a research database.
+  
+- **Data Analysis & Support**: Analyzed EEG data from 60+ participants using EEGLAB and MATLAB. Managed equipment calibration and data backups.
+  
+- **Report Writing**: Co-authored papers and summarized research outcomes in detailed reports.
 
-**Project**: *Working Memory Bias Correction in Individuals with Depressive Tendencies*  
+#### Project 2: *Working Memory Bias Correction in Individuals with Depressive Tendencies*  
 *Funded by the MOE Project of Humanities and Social Sciences, PI: Asst. Prof. Xu Li*
 
-- Managed data collection and analysis using statistical methods on a sample of 80 participants.
-- Developed and tested hypotheses, resulting in the publication of a first-author paper.
-- Presented key findings to academic peers, receiving constructive feedback.
+- **Literature & Design**: Reviewed research on memory biases in depression and helped design experiments.
+  
+- **Experiment & Data Analysis**: Managed participant recruitment and data collection for 80 participants. Conducted statistical analysis using SPSS and MATLAB.
+  
+- **Reporting & Support**: Wrote research reports and coordinated experiment logistics, ensuring compliance with ethical guidelines.
