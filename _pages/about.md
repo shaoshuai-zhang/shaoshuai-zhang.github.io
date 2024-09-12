@@ -18,7 +18,7 @@ My research explores questions such as:
 
 *   What are the patterns of attention bias and working memory bias in individuals with social anxiety?
 
-*   How does the visual system process biological and non-biological motion?
+*   How does the visual system process motion and biological motion?
 
 ***
 
