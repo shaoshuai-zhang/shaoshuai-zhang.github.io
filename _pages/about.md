@@ -28,7 +28,7 @@ Hello! I am a research assistant at the [Institute of Psychology, Chinese Academ
 
 *  Visual Cognition
   
-*  aging
+*  Aging
 
 ***
 
